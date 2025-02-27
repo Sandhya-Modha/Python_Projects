@@ -1,2 +1,2 @@
-# Projects
-A collection of my projects across Data Analysis, Technology, and Marketing. Showcasing skills, tools, and problem-solving approaches. 🚀
+# Python_Projects
+A collection of Python Projects showcasing Data Analysis, Technology, and Marketing Insights. 🚀
