@@ -1,6 +1,7 @@
 # Python Projects Repository
 
-Welcome to the **Python Projects** repository! 🚀 This repository contains multiple data analysis projects using Python. Each project is structured independently with its own dataset, analysis, and results.
+Welcome to the **Python Projects** repository!  
+🚀 This repository contains multiple data analysis projects using Python. Each project is structured independently with its own dataset, analysis, and results.
 
 ## 📂 Projects in This Repository
 
