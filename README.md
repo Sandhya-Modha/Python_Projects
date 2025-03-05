@@ -7,7 +7,7 @@ Welcome to the **Python Projects** repository! 🚀 This repository contains mul
 ### 📊 BlinkIT Data Analysis
 **Description:** Analyzing BlinkIT data to uncover insights and trends in online grocery shopping.  
 **Tech Stack:** Python, Pandas, Matplotlib, Seaborn  
-**Project Folder:** [(https://github.com/Sandhya-Modha/Python_Projects/blob/main/BlinkITDataAnalysisProject.ipynb)  
+**Project Folder:** [BlinkIT Data Analysis][(https://github.com/Sandhya-Modha/Python_Projects/blob/main/BlinkITDataAnalysisProject.ipynb)  
 
 ### 💳 Credit Card Fraud Detection
 **Description:** A machine learning model to detect fraudulent transactions in credit card data.  
