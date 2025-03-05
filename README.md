@@ -11,7 +11,7 @@ Welcome to the **Python Projects** repository! 🚀 This repository contains mul
 
 ### 💳 Credit Card Fraud Detection
 **Description:** A machine learning model to detect fraudulent transactions in credit card data.  
-**Tech Stack:** Python, Scikit-learn, Pandas, Matplotlib, Seaborn 
+**Tech Stack:** Python, Scikit-learn, Pandas, Matplotlib, Seaborn
 **Project File:** [Credit Card Fraud Detection Project](https://github.com/Sandhya-Modha/Python_Projects/blob/main/Creditcard_fraud_detection_project.ipynb)  
 
 ### 💎 Diamonds Data Analysis
