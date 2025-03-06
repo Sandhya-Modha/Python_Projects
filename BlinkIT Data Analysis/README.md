@@ -1,14 +1,17 @@
-#📊 BlinkIT Data Analysis
-This project analyzes BlinkIT order data to identify trends, customer behavior, and product demand.
+# BlinkIT Data Analysis 📊
 
-###📌 Key Features:
-Exploratory Data Analysis (EDA)
-Customer purchasing patterns
-Product demand trends
-Visualizations using Matplotlib & Seaborn
+## Overview  
+This project analyzes **BlinkIT** order data to identify trends, customer behavior, and product demand.
 
-###🛠️ Technologies Used:
-Python, Pandas, Matplotlib, Seaborn
+## Key Features  
+- 📈 Exploratory Data Analysis (EDA)  
+- 🛍️ Customer purchasing patterns  
+- 📊 Product demand trends  
+- 📌 Visualizations using Matplotlib & Seaborn  
 
-###📂 Files Included:
-BlinkITDataAnalysisProject.ipynb → Jupyter Notebook with analysis and visualizations
+## Technologies Used  
+- 🐍 Python  
+- 📊 Pandas, Matplotlib, Seaborn  
+
+## Files Included  
+- `BlinkITDataAnalysisProject.ipynb` → Jupyter Notebook with analysis and visualizations  
