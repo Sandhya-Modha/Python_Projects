@@ -1,22 +1,21 @@
-# Credit Card Fraud Detection 🔍  
+# **Credit Card Fraud Detection 🔍**  
 
-## Overview  
-This project analyzes credit card transactions to detect fraudulent activities. Instead of traditional machine learning classification models, it explores alternative techniques like **Passive Aggressive Regressor** for anomaly detection.  
+## **Overview**  
+This project analyzes credit card transaction data to detect fraudulent transactions. Instead of traditional machine learning models, it leverages **statistical methods, rule-based techniques, and exploratory data analysis (EDA)** to identify patterns in fraudulent activity.  
 
-## Key Features  
-- 🏷️ Data preprocessing and exploratory data analysis (EDA)  
-- 📊 Fraud pattern visualization and insights  
-- ⚡ Applying **Passive Aggressive Regressor** for anomaly detection  
+## **Key Features**  
+- 📊 **Data Preprocessing** – Cleaning and preparing transaction data  
+- 🔍 **Exploratory Data Analysis (EDA)** – Identifying fraud patterns using statistical insights  
+- ⚠️ **Anomaly Detection** – Using rule-based methods instead of ML models  
+- 📈 **Visualizations** – Fraud trends and transaction distributions  
 
-## Technologies Used  
-- 🐍 Python  
-- 📊 Pandas, Seaborn, Matplotlib  
-- 🏆 Scikit-learn (Passive Aggressive Regressor)  
+## **Technologies Used**  
+- 🐍 **Python**  
+- 📊 **Pandas, NumPy** for data handling  
+- 📉 **Matplotlib, Seaborn** for visualization  
 
-## Files Included  
-- `Creditcard_fraud_detection_project.ipynb` → Jupyter Notebook with analysis and implementation  
-- `creditcard.csv` → Dataset containing transaction details  
+## **Files Included**  
+- `Creditcard_fraud_detection_project.ipynb` → Jupyter Notebook with fraud detection analysis  
 
-## Future Scope  
-- Experimenting with traditional ML models for classification  
-- Improving fraud detection with deep learning techniques  
+## **Conclusion**  
+This project focuses on detecting fraudulent transactions using **data-driven insights rather than machine learning models**. It highlights key fraud indicators that could be further explored with advanced methods.  
